@@ -32,7 +32,7 @@ const About = () =>  (
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>About Us</h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Metapay Group is your trusted partner for strategic business solutions. We bring a wealth of expertise across various industries to address your organization's unique challenges and opportunities.
+        Metapay Group is your trusted partner for strategic business solutions. We bring a wealth of expertise across various industries to address your organisation's unique challenges and opportunities.
       </p>
 
       <Button styles={`mt-10`} />

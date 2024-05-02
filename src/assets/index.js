@@ -25,6 +25,9 @@ import twitter from "./twitter.svg";
 import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
+import robo2 from "./2.png";
+import bill2 from "./Project 1.png";
+import bill3 from "./Project 2.png";
 
 export {
   airbnb,
@@ -53,5 +56,8 @@ export {
   people02,
   people03,
   MetaDark,
-  MetaLight
+  MetaLight,
+  robo2,
+  bill2,
+  bill3
 };
